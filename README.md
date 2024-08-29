@@ -17,7 +17,7 @@
     <li>npm</li>
     <li>Tailwind CSS</li>
     <li>Git</li>
-
+</ul>
 <h2>Project List</h2>
 <ul>
     <li><strong>BMI Calculator:</strong> A simple web application to calculate Body Mass Index (BMI) based on user input, providing insights on health status.</li>
