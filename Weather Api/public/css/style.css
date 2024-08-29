@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  margin: 0px;
+  background-color: #dde6ed;
+}
+header {
+  background-color: #27374d;
+  height: 100px;
+}
+.box {
+  background-color: white;
+  padding: 5px;
+  margin: 30px;
+}
+div {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  opacity: 10;
+}
+#weather {
+  color: #526d82;
+  margin-top: 4px;
+}
+.reset {
+  border: 2px solid #6277ca;
+  border-radius: 3px;
+}

@@ -1,0 +1,38 @@
+body {
+  background-color: #f99b7d;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: center;
+  row-gap: 40px;
+  column-gap: 70px;
+}
+
+.first {
+  grid-column: span 2;
+}
+.heading {
+  font-size: 9rem;
+  text-align: center;
+  margin: 20px;
+  font-family: "Sigmar", cursive;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flexbox p {
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: "Dancing Script", cursive;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
